@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConvertMyCurrency</string>
+
+    //API WAS FREE SO I DECIDED TO KEEP IT HERE ANY WAYS
+    <string name="Key">d8e73ae76emsh2f94997e0f4e679p1e51b9jsn070c65d089da</string>
+    <string name="Host">currency-exchange.p.rapidapi.com</string>
+
+</resources>
